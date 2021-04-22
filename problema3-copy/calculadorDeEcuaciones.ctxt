@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=calculadorDeEcuaciones
+comment1.params=a\ b\ c
+comment1.target=java.lang.String\ resultados(double,\ double,\ double)
+comment2.params=punto1\ punto2
+comment2.target=java.lang.String\ ecuacionRecta(Punto,\ Punto)
+comment3.params=hipo\ cate
+comment3.target=double\ catetoFaltante(double,\ double)
+numComments=4

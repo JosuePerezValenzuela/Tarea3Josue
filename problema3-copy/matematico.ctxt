@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=matematico
+comment1.params=calculadorDeEcuaciones
+comment1.target=matematico(calculadorDeEcuaciones)
+comment2.params=num1\ num2\ num3
+comment2.target=java.lang.String\ indicador(double,\ double,\ double)
+comment3.params=base\ altura
+comment3.target=double\ area(double,\ double)
+comment4.params=punto1\ punto2
+comment4.target=double\ distancia2Puntos(Punto,\ Punto)
+comment5.params=punto1
+comment5.target=java.lang.String\ cuadrante(Punto)
+comment6.params=a\ b\ c
+comment6.target=java.lang.String\ solucion(double,\ double,\ double)
+comment7.params=punto1\ punto2
+comment7.target=java.lang.String\ ecuacionRecta(Punto,\ Punto)
+comment8.params=hipo\ cate
+comment8.target=java.lang.String\ calcularCateto(double,\ double)
+numComments=9
